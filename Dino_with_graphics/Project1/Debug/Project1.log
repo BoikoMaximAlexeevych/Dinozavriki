@@ -1,0 +1,328 @@
+﻿  main.cpp
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(74,107): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(74,107): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(74,107): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(74,107): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(74,107): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(74,107): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(74,107): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(74,107): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(74,107): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(74,73): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(74,73): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(74,73): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(74,73): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(74,73): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(74,73): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(74,73): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(74,73): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(74,73): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(85,104): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(85,104): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(85,104): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(85,104): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(85,104): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(85,104): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(85,104): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(85,104): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(85,104): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(85,70): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(85,70): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(85,70): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(85,70): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(85,70): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(85,70): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(85,70): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(85,70): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(85,70): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(143,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(255,111): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(255,111): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(255,111): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(255,111): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(255,111): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(255,111): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(255,111): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(255,111): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(255,111): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(255,77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(255,77): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(255,77): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(255,77): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(255,77): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(255,77): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(255,77): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(255,77): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(255,77): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(266,135): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(266,135): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(266,135): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(266,135): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(266,135): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(266,135): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(266,135): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(266,135): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(266,135): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(266,101): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(266,101): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(266,101): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(266,101): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(266,101): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(266,101): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(266,101): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(266,101): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(266,101): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(278,111): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(278,111): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(278,111): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(278,111): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(278,111): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(278,111): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(278,111): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(278,111): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(278,111): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(278,77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(278,77): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(278,77): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(278,77): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(278,77): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(278,77): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(278,77): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(278,77): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(278,77): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(290,114): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(290,114): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(290,114): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(290,114): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(290,114): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(290,114): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(290,114): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(290,114): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(290,114): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(290,80): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(290,80): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(290,80): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(290,80): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(290,80): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(290,80): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(290,80): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(290,80): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(290,80): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(302,111): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(302,111): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(302,111): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(302,111): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(302,111): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(302,111): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(302,111): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(302,111): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(302,111): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(302,77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(302,77): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(302,77): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(302,77): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(302,77): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(302,77): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(302,77): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(302,77): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(302,77): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(315,111): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(315,111): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(315,111): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(315,111): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(315,111): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(315,111): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(315,111): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(315,111): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(315,111): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(315,77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(315,77): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(315,77): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(315,77): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(315,77): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(315,77): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(315,77): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(315,77): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(315,77): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(457,113): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(457,113): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(457,113): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(457,113): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(457,113): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(457,113): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(457,113): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(457,113): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(457,113): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(457,79): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(457,79): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(457,79): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(457,79): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(457,79): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(457,79): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(457,79): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(457,79): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(457,79): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(470,110): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(470,110): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(470,110): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(470,110): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(470,110): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(470,110): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(470,110): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(470,110): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(470,110): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(470,76): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(470,76): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(470,76): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(470,76): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(470,76): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(470,76): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(470,76): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(470,76): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(470,76): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(489,114): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(489,114): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(489,114): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(489,114): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(489,114): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(489,114): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(489,114): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(489,114): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(489,114): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(489,80): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(489,80): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(489,80): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(489,80): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(489,80): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(489,80): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(489,80): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(489,80): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(489,80): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(624,138): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(624,138): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(624,138): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(624,138): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(624,138): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(624,138): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(624,138): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(624,138): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(624,138): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(624,104): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(624,104): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(624,104): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(624,104): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(624,104): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(624,104): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(624,104): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(624,104): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(624,104): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(634,126): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(634,126): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(634,126): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(634,126): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(634,126): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(634,126): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(634,126): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(634,126): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(634,126): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(634,92): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(634,92): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(634,92): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(634,92): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(634,92): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(634,92): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(634,92): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(634,92): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(634,92): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(644,150): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(644,150): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(644,150): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(644,150): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(644,150): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(644,150): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(644,150): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(644,150): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(644,150): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(644,116): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(644,116): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(644,116): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(644,116): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(644,116): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(644,116): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(644,116): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(644,116): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(644,116): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(657,124): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(657,124): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(657,124): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(657,124): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(657,124): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(657,124): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(657,124): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(657,124): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(657,124): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(657,90): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(657,90): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(657,90): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(657,90): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(657,90): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(657,90): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(657,90): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(657,90): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(657,90): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(768,105): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(768,105): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(768,105): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(768,105): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(768,105): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(768,105): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(768,105): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(768,105): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(768,105): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(768,71): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(768,71): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(768,71): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(768,71): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(768,71): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(768,71): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(768,71): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(768,71): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(768,71): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(878,105): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(878,105): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(878,105): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(878,105): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(878,105): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(878,105): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(878,105): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(878,105): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(878,105): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(878,71): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(878,71): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(878,71): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(878,71): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(878,71): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(878,71): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(878,71): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(878,71): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(878,71): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(930,105): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(930,105): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(930,105): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(930,105): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(930,105): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(930,105): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(930,105): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(930,105): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(930,105): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(930,71): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(930,71): warning C4244:         with
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(930,71): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(930,71): warning C4244:             T=int
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(930,71): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(930,71): warning C4244:         and
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(930,71): warning C4244:         [
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(930,71): warning C4244:             T=float
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(930,71): warning C4244:         ]
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(43,1): warning C4715: rand_ter: значение возвращается не при всех путях выполнения
+  Project1.vcxproj -> C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Debug\Dino_with_graphics.exe

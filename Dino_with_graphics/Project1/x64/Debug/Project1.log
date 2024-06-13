@@ -1,0 +1,5 @@
+﻿  Dino.cpp
+  Shop.cpp
+  main.cpp
+  Создание кода...
+C:\Users\Maxim\Documents\dino_graph\Dino_with_graphics\Project1\code\main.cpp(3,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
